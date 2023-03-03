@@ -509,7 +509,7 @@ function distinct(arr) {
  *   }
  */
 function group(/* array, keySelector, valueSelector */) {
-  //  return Object.entries(array).map(([keySelector, valueSelector]) => [valueSelector]);
+  throw new Error('Not implemented');
 }
 
 
